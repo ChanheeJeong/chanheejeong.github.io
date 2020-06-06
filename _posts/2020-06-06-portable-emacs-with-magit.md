@@ -1,3 +1,9 @@
+---
+title: "Portable Emacs with magit"
+date: 2020-06-06
+categories: emacs
+---
+
 * Requirements
 ** Hardware
    1. USB or Portable SSD
